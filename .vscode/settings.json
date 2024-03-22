@@ -1,0 +1,7 @@
+{
+  "CodeGPT.Autocomplete.provider": "CodeGPT Plus - Plus",
+  "CodeGPT.Autocomplete.enabled": true,
+  "CodeGPT.Autocomplete.maxTokens": 5670,
+  "CodeGPT.Autocomplete.suggestionDelay": 840,
+  "CodeGPT.apiKey": "OpenAI"
+}
